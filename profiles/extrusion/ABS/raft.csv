@@ -13,17 +13,13 @@ Base Nozzle Lift over Base Layer Thickness (ratio):	0.4
 Initial Circling:	False
 Infill Overhang over Extrusion Width (ratio):	0.05
 Interface Feed Rate Multiplier (ratio):	0.9
-Interface Flow Rate Multiplier (ratio):	0.35
+Interface Flow Rate Multiplier (ratio):	0.25
 Interface Infill Density (ratio):	0.5
 Interface Layer Thickness over Layer Thickness:	1.0
 Interface Layers (integer):	2
 Interface Nozzle Lift over Interface Layer Thickness (ratio):	0.45
 Name of Support End File:	support_end.gcode
 Name of Support Start File:	support_start.gcode
-Object First Layer Feed Rate Infill Multiplier (ratio):	0.4
-Object First Layer Feed Rate Perimeter Multiplier (ratio):	0.4
-Object First Layer Flow Rate Infill Multiplier (ratio):	0.4
-Object First Layer Flow Rate Perimeter Multiplier (ratio):	0.4
 Operating Nozzle Lift over Layer Thickness (ratio):	0.5
 Raft Additional Margin over Length (%):	1.0
 Raft Margin (mm):	3.0
