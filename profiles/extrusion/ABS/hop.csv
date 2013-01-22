@@ -2,6 +2,6 @@ Format is tab separated hop settings.
 _Name                          	Value
 WindowPosition	700+0
 Open File for Hop	
-Activate Hop	False
+Activate Hop	True
 Hop Over Layer Thickness (ratio):	1.0
 Minimum Hop Angle (degrees):	30.0

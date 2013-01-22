@@ -21,7 +21,7 @@ fill	False
 fillet	False
 flow	False
 home	False
-hop	False
+hop	True
 inset	False
 jitter	False
 lash	False
@@ -32,7 +32,7 @@ multiply	False
 oozebane	False
 outset	False
 preface	False
-raft	True
+raft	False
 scale	False
 skin	False
 skirt	False
