@@ -1,7 +1,7 @@
 Format is tab separated skeinforge settings.
 _Name                          	Value
-WindowPosition	455+22
-Open File for Skeinforge	
+WindowPosition	0+0
+Open File for Skeinforge	/home/guest/it-syndikat-reprap-models/OptoEndstop-grff-wide/flatendKnob.stl
 analyze	False
 craft	True
 help	False
